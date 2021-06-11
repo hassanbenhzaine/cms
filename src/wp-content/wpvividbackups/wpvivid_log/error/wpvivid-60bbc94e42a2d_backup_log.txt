@@ -1,0 +1,76 @@
+Log created: 2021-06-05 18:58:22
+Type: backup
+[2021-06-05 18:58:42][notice]Start backing up.
+[2021-06-05 18:58:42][notice]server info fcgi:Off max execution time: 900 wp version:5.7.2 php version:7.4.8 db version:5.6.48 php ini:safe_mode: memory_limit:128M memory_get_usage:56.40 MB memory_get_peak_usage:56.66 MB extensions:PDO enabled curl enabled zlib enabled   is_multisite:0
+[2021-06-05 18:58:42][notice]Prepare to backup backup_db files.
+[2021-06-05 18:58:42][notice]Start exporting database.
+[2021-06-05 18:58:42][notice]max_allowed_packet less than 32M :3.00 MB
+[2021-06-05 18:58:42][notice]Preparing to dump table wppu_actionscheduler_actions
+[2021-06-05 18:58:43][notice]Preparing to dump table wppu_actionscheduler_claims
+[2021-06-05 18:58:43][notice]Preparing to dump table wppu_actionscheduler_groups
+[2021-06-05 18:58:43][notice]Preparing to dump table wppu_actionscheduler_logs
+[2021-06-05 18:58:43][notice]Preparing to dump table wppu_aioseo_notifications
+[2021-06-05 18:58:43][notice]Preparing to dump table wppu_aioseo_posts
+[2021-06-05 18:58:43][notice]Preparing to dump table wppu_commentmeta
+[2021-06-05 18:58:43][notice]Preparing to dump table wppu_comments
+[2021-06-05 18:58:43][notice]Preparing to dump table wppu_links
+[2021-06-05 18:58:43][notice]Preparing to dump table wppu_options
+[2021-06-05 18:58:44][notice]Preparing to dump table wppu_postmeta
+[2021-06-05 18:58:44][notice]Preparing to dump table wppu_posts
+[2021-06-05 18:58:44][notice]Preparing to dump table wppu_term_relationships
+[2021-06-05 18:58:44][notice]Preparing to dump table wppu_term_taxonomy
+[2021-06-05 18:58:44][notice]Preparing to dump table wppu_termmeta
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_terms
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_trp_dictionary_en_us_fr_fr
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_trp_gettext_en_us
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_trp_gettext_fr_fr
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_trp_original_meta
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_trp_original_strings
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_usermeta
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_users
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_admin_note_actions
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_admin_notes
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_category_lookup
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_customer_lookup
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_download_log
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_order_coupon_lookup
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_order_product_lookup
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_order_stats
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_order_tax_lookup
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_product_meta_lookup
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_reserved_stock
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_tax_rate_classes
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wc_webhooks
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_api_keys
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_attribute_taxonomies
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_downloadable_product_permissions
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_log
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_order_itemmeta
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_order_items
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_payment_tokenmeta
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_payment_tokens
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_sessions
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_shipping_zone_locations
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_shipping_zone_methods
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_shipping_zones
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_tax_rate_locations
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_woocommerce_tax_rates
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wpvivid_scan_result
+[2021-06-05 18:58:45][notice]Preparing to dump table wppu_wpvivid_unused_uploads_files
+[2021-06-05 18:58:45][notice]Exporting database finished.
+[2021-06-05 18:58:45][notice]Start compressing backup_db
+[2021-06-05 18:58:45][notice]Prepare to zip files. file: hassanbenhzaine.ga_projects_store_wpvivid-60bbc94e42a2d_2021-06-05-18-58_backup_db.zip
+[2021-06-05 18:58:46][notice]Adding zip files completed.hassanbenhzaine.ga_projects_store_wpvivid-60bbc94e42a2d_2021-06-05-18-58_backup_db.zip, filesize: 1.41 MB
+[2021-06-05 18:58:46][notice]Compressing backup_db completed
+[2021-06-05 18:58:46][notice]Backing up backup_db completed.
+[2021-06-05 18:58:46][notice]Prepare to backup backup_themes files.
+[2021-06-05 18:58:46][notice]File number: 956
+[2021-06-05 18:58:46][notice]Start compressing backup_themes
+[2021-06-05 18:58:47][notice]Prepare to zip files. file: hassanbenhzaine.ga_projects_store_wpvivid-60bbc94e42a2d_2021-06-05-18-58_backup_themes.zip
+[2021-06-05 18:59:46][notice]Failed to add zip files, error: PCLZIP_ERR_MISSING_FILE (-4) : File '/home/vol6_6/epizy.com/epiz_28327718/htdocs/projects/store/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png' does not exist
+[2021-06-05 18:59:46][notice]disk_free_space : 
+[2021-06-05 18:59:46][notice]Compressing backup_themes completed
+[2021-06-05 18:59:46][notice]Backing up backup_themes completed.
+[2021-06-05 18:59:46][notice]Cleaned up file, filename: /home/vol6_6/epizy.com/epiz_28327718/htdocs/projects/store/wp-content/wpvividbackups/hassanbenhzaine.ga_projects_store_wpvivid-60bbc94e42a2d_2021-06-05-18-58_backup_db.zip
+[2021-06-05 18:59:46][notice]Backup completed.
+[2021-06-05 18:59:46][error]PCLZIP_ERR_MISSING_FILE (-4) : File '/home/vol6_6/epizy.com/epiz_28327718/htdocs/projects/store/wp-content/themes/twentytwenty/assets/images/2020-three-quarters-2.png' does not exist

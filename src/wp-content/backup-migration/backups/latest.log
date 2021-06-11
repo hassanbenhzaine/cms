@@ -1,0 +1,16 @@
+[STEP] [2021-06-10 14:58:39] Looking for PHP CLI executable file.
+[WARN] [2021-06-10 14:58:39] PHP CLI is disabled in your php.ini file, the process may be unstable.
+[STEP] [2021-06-10 14:58:39] Initializing backup...
+[INFO] [2021-06-10 14:58:39] Backup & Migration version: 1.1.0
+[INFO] [2021-06-10 14:58:39] Site which will be backed up: http://hassanbenhzaine.ga/projects/store
+[INFO] [2021-06-10 14:58:39] PHP Version: 7.4.8
+[INFO] [2021-06-10 14:58:39] Web server: Apache
+[INFO] [2021-06-10 14:58:39] Max execution time (in seconds): 60
+[INFO] [2021-06-10 14:58:39] Checking if backup dir is writable...
+[INFO] [2021-06-10 14:58:39] Initializing custom error handler
+[SUCCESS] [2021-06-10 14:58:39] Yup it is writable...
+[STEP] [2021-06-10 14:58:39] Scanning files...
+[STEP] [2021-06-10 14:58:40] Checking free space, reserving...
+[INFO] [2021-06-10 14:58:40] Requires at least 172886058 bytes. [164.88 MB]
+[INFO] [2021-06-10 14:58:40] Disk free space function is disabled by hosting.
+[INFO] [2021-06-10 14:58:40] Using dummy file to check free space (it can take some time).
